@@ -1,3 +1,10 @@
+:root {
+    /* Only include this part if you wish to change these variables */
+    /* To disable the border, you can change the transparency to 0 */
+    --user-area-border-width: 1.5px;
+    --user-area-border-color: rgba(121, 227, 121, 0.5);
+}
+
 .visual-refresh .panels_c48ade .wrapper_e131a9 {
     max-height: 0;
     opacity: 0;
